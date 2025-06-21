@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Dharmo31
 - 👀 I’m interested in video, photo editing and web development.
 - 🌱 I’m currently learning full stack webdevelopment course by Angela Yu.
-- 💞️ I’m not yet looking for collaborate. 
+- 💞️ I’m not yet looking for collaboration. 
 - 📫 How to reach me via gmail.
 
 <!---
